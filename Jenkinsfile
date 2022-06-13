@@ -1,2 +1,2 @@
 @Library('techops-sharelibrary') _
-techopsApp
+techopsApp "https://github.com/techopsteam4/techopsApp1"
